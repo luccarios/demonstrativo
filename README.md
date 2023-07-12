@@ -2,7 +2,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar]({https://luccarios.github.io/demonstrativo/})
+[🔗 Clique aqui para acessar](https://luccarios.github.io/demonstrativo/)
 
 
 ## 🛠 Tecnologias
